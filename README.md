@@ -6,8 +6,8 @@ With roots in architecture, robotics, and structural engineering, I specialize i
 
 I currently work on **digital strategy and transformation**, using my background in computational design to improve systems and workflows. On the side, I practice **data analytics**—solving real-world problems with a mix of creativity, logic, and code.
 
-## 🧰 Tools I love
-`Python` • `SQL` • `C` • `Power BI` • `Grasshopper` • `Rhino.Inside` • `Git`  
+## 🧰 I love
+`Python` • `SQL` • `C++` • `Grasshopper` • `Rhino.Inside` • `Git` • `Power BI` •  
 Still love visual programming, but fluent in data and automation too.
 
 📊 Data & Analytics
@@ -37,6 +37,13 @@ Dynamo (Revit) – computational BIM and automation workflows
 - Strengthen roots in **data science** and **applied ML**
 - Work on projects that **connect data insights with business decisions**
 - Keep exploring roles at the intersection of **technology, strategy, and analytics**
+
+  
+## ✨ Fun Fact
+I’ve spent **3 years designing and building robots from scratch**—PCBs, sensors, hardware, firmware—you name it.  
+And just to keep things interesting, I also hold **advanced fashion design certificates** 👗🤖  
+*Yes, I’ve stitched both code and fabric!*
+
 
 ## 🌍 Location
 Based in Sweden 🇸🇪 | Working across disciplines and domains
