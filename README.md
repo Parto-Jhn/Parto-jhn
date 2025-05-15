@@ -22,7 +22,7 @@ C++ – performance-heavy tasks, geometry processing, engineering applications
 
 🌐 Web & Scripting
 
-JavaScript – basic scripting and web interactivity
+JavaScript ^ TypeScript – basic scripting and web interactivity
 HTML/CSS – layout and styling for web interfaces
 
 🎛️ Visual Programming
