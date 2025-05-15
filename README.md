@@ -15,13 +15,16 @@ Still love visual programming, but fluent in data and automation too.
 Python – analytics, automation, / basics of machine learning, scripting
 SQL – querying, data wrangling, dashboards
 GHPython – scripting inside Grasshopper for geometry + data workflows
+
 💻 Software & Backend
 
 C++ – performance-heavy tasks, geometry processing, engineering applications
+
 🌐 Web & Scripting
 
 JavaScript – basic scripting and web interactivity
 HTML/CSS – layout and styling for web interfaces
+
 🎛️ Visual Programming
 
 Grasshopper (Rhino) – parametric modeling, automation
